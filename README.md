@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/zainali954/Profile-card-component](https://github.com/zainali954/Profile-card-component)
+- Live Site URL: [https://zainali954.github.io/Profile-card-component/](https://zainali954.github.io/Profile-card-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [zainali954.github.io](https://zainali954.github.io/Order-summary-card/)
+- Website - [zainali954.github.io](https://zainali954.github.io/Profile-card-component/)
 - Frontend Mentor - [@zainali954](https://www.frontendmentor.io/profile/zainali954)
